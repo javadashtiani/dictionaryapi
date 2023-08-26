@@ -1,5 +1,5 @@
 # dictionaryapi
-![weather](https://github.com/javadashtiani/weatherappapi/assets/134012615/ed8e9963-5223-4663-80fb-a98258bdf58c)
+![dic](https://github.com/javadashtiani/dictionaryapi/assets/134012615/e34c14ba-ede3-4210-899a-ecf8a3766ef7)
 - 🔗 https://javadashtiani.github.io/dictionaryapi/
 - 💻 Developed by Javad Ashtiani
 - 📆 Created - 2023
