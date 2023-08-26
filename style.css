@@ -1,0 +1,94 @@
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: 'Roboto', sans-serif;
+}
+.box {
+  width: 500px;
+  height: 100px;
+  border: 1px solid black;
+  margin-top: 60px;
+  display: flex;
+  padding: 20px;
+  justify-content: space-between;
+  align-items: center;
+}
+.box input {
+  border: none;
+  outline: none;
+  border-bottom: 1px solid black;
+  width: 370px;
+  font-size: 22px;
+  font-family: 'Roboto', sans-serif;
+
+}
+.box > div > a {
+  text-decoration: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 70px;
+  height: 30px;
+  background-color: #3f3f46;
+  padding: 10px;
+  border-radius: 6px;
+  font-size: 18px;
+  color: #fff;
+}
+.content {
+  margin-top: 30px;
+  width: 500px;
+  padding: 10px;
+  height: 350px;
+  display: flex;
+  flex-direction: column;
+}
+.content > .part-one {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+.content > .part-one h2 {
+  font-size: 38px;
+  margin-bottom: 15px;
+}
+.content > .part-one > div > div {
+  display: flex;
+  gap: 0 10px;
+}
+.content > .part-one > div > div > p {
+  font-size: 18px;
+  color: #71717a;
+}
+.content > .part-one .volume {
+  font-size: 34px;
+  color: #71717a;
+}
+.part-two {
+  margin-top: 40px;
+  color: #065f46;
+  font-size: 20px;
+}
+.part-three {
+  margin-top: 18px;
+  color: #a1a1aa;
+}
+.part-three > h2 {
+  padding-left: 10px;
+  border-left: 4px solid red;
+}
+.exmple {
+  padding: 10px;
+  font-size: 18px;
+  color: #3f3f46;
+  margin-top: 10px;
+}
